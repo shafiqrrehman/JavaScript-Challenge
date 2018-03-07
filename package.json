@@ -1,0 +1,29 @@
+{
+  "name": "javascript-challenge",
+  "version": "1.0.0",
+  "description": "JavaScript Vanilla Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shafiqrrehman/JavaScript-Challenge.git"
+  },
+  "keywords": [
+    "To",
+    "demonstrate",
+    "my",
+    "Vanilla",
+    "JavaScript"
+  ],
+  "author": "Shafiq Ur Rehman <shafiq.12@live.com> (http://github.com/shafiqrrehman)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shafiqrrehman/JavaScript-Challenge/issues"
+  },
+  "homepage": "https://github.com/shafiqrrehman/JavaScript-Challenge#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
